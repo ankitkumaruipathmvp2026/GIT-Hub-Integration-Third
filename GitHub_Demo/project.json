@@ -1,6 +1,6 @@
 {
   "name": "GitHub_Demo",
-  "projectId": "8c3e2f92-fe73-44b5-a1ab-042bc2e726bd",
+  "projectId": "7e0181fa-5445-4e7a-8195-317282617852",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -45,7 +45,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "8e3efd01-c845-428d-b19b-c788454bbc07",
+      "uniqueId": "03810acd-8c73-493a-bad0-d7a7cdd32d4b",
       "input": [],
       "output": []
     }
