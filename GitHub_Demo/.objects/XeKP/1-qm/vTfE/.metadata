@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome ankitkumaruipathmvp2026GIT-Hub-Integra",
+  "Type": "Screen",
+  "Id": "vTfEPMstrU-WmwgeBf4ZoA",
+  "Reference": "F19zsdeoiEC4p6VlcB7ERQ/vTfEPMstrU-WmwgeBf4ZoA",
+  "ParentRef": "F19zsdeoiEC4p6VlcB7ERQ/1-qme884OUKtEJbsQrmaAw",
+  "Created": "2026-04-12T12:52:02.2256831Z",
+  "Updated": "2026-04-12T12:52:02.2256831Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.28.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

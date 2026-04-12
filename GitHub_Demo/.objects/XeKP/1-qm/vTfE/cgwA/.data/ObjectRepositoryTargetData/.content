@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="093Ubm88o0qgugvXLS_G0g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="github.com/ankitkumaruipathmvp2026/GIT-Hub-Integration-Third/tree/Developer-A" DesignTimeRectangle="107, 315, 363, 45" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='repo-title-component' tag='A' /&gt;" Guid="61117605-050b-47e5-902b-e7958c08c9f9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ankitkumaruipathmvp2026/GIT-Hub-Integration-Third at Developer-A' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6f9040f2a43f1a14004908ce9d0a491a.jpg" xmlns="">0rSfs-qEBN0GBZijmgZYCWg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
